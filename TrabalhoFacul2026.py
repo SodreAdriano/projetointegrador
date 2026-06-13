@@ -41,7 +41,7 @@ while True:
     print("\n==================================================")
     print("      SISTEMA DE GESTÃO DE FROTA (2026)           ")
     print("==================================================")
-    print("[1] Cadastrar Novo Veículo")
+    print("[1] Cadastrar Veículo Novo")
     print("[2] Listar Veículos e Verificar Alertas")
     print("[3] Sair do Sistema")
     print("==================================================")
